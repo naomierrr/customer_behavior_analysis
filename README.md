@@ -50,5 +50,5 @@ How to Run
 3.	Power BI: Open customer_behavior_dashboard.pbix to view interactive visuals (requires Power BI Desktop).
 4.	Documentation: Review the Analysis_Report.pdf for deep-dive business insights.
 
-Acknowledgments
+Acknowledgments:
 Special thanks to Amlan Mohanty for the excellent tutorial that guided this project's structure and analysis.

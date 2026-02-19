@@ -159,11 +159,3 @@ Business Insights & Report
 ## 🙏 Acknowledgments
 
 Special thanks to **Amlan Mohanty** for the tutorial guidance that inspired the project structure and analytical approach.
-
----
-
-<div align="center">
-
-⭐ If you found this project valuable, consider giving it a star!
-
-</div>
